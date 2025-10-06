@@ -3,13 +3,13 @@
 Aplicação web desenvolvida com **fins de estudo e portfólio**, simulando uma ação divertida e segura de **Dia dos Namorados em escolas e faculdades**.  
 Permite que alunos enviem e recebam mensagens anônimas ou identificadas, com temas personalizados, busca por turma e painel administrativo para coordenação ou grêmio.
 
-> Projeto de demonstração — desenvolvido apenas para fins educacionais e exibição no portfólio **AllTech Websites**.
+> Projeto de demonstração — desenvolvido apenas para fins educacionais e exibição no portfólio AllTech Websites.
 
 ---
 
 ## Funcionalidades
 
-### 💌 Envio de Mensagens
+### Envio de Mensagens
 - Escolha de **tema da carta** (layouts prontos, cores, stickers e degradês).  
 - Opção de **anônimo ou identificado**.  
 - Busca de destinatário por **turma, série, curso ou RA + nome**.  
@@ -70,7 +70,7 @@ Permite que alunos enviem e recebam mensagens anônimas ou identificadas, com te
 ## Acesse o Projeto Online
 O sistema está hospedado e disponível para visualização:
 
-👉 [Visualizar Projeto Online](https://seulink.hostingersite.com)
+[Visualizar Projeto Online](https://darkslateblue-gerbil-346512.hostingersite.com/cadastro/index.html)
  
 ---
 
@@ -78,17 +78,18 @@ O sistema está hospedado e disponível para visualização:
 
 <div align="center">
 
-<img width="1861" height="1003" alt="Image" src="https://github.com/user-attachments/assets/2f58eb24-ce1d-4c09-8574-5cd0142ff41b" />
-<img width="1869" height="1005" alt="Image" src="https://github.com/user-attachments/assets/89089eeb-90e0-4253-babf-d48fd94fd437" />
-<img width="1863" height="1004" alt="Image" src="https://github.com/user-attachments/assets/259e31b8-dac5-4ade-89c3-915144eef2f7" />
-<img width="1869" height="1006" alt="Image" src="https://github.com/user-attachments/assets/567db262-2a26-4ec5-9c16-2281e03fae2f" />
-<img width="1878" height="1172" alt="Image" src="https://github.com/user-attachments/assets/a206436f-4cd8-4f50-96c9-dcf6cc3382b7" />
+<!-- ordem invertida: a última enviada aparece primeiro -->
+<img src="https://github.com/user-attachments/assets/17225ff4-ae44-48eb-a6a2-d41991f9e340" alt="Tela 1" width="19%">
+<img src="https://github.com/user-attachments/assets/e4e0f44c-e1fc-446f-9040-0b536c7746ea" alt="Tela 2" width="19%">
+<img src="https://github.com/user-attachments/assets/0eae8f63-7503-4c12-a61e-35c78c68f354" alt="Tela 3" width="19%">
+<img src="https://github.com/user-attachments/assets/c0364fab-4173-402a-9e59-355218eeac41" alt="Tela 4" width="19%">
+<img src="https://github.com/user-attachments/assets/d81a18b5-889b-45ee-bc6b-561f80d9b21b" alt="Tela 5" width="19%">
 
 </div>
 
 ---
 
-##  Roadmap
+## Roadmap
 - [ ] Sistema de notificações em tempo real  
 - [ ] Ranking de mensagens mais curtidas  
 - [ ] Análise de engajamento por turma  
@@ -96,9 +97,8 @@ O sistema está hospedado e disponível para visualização:
 
 ---
 
-##  Licença
-MIT License — uso permitido apenas para fins educacionais e demonstração.
+## Licença
+Este repositório é disponibilizado para **visualização apenas**.  
+Não é permitido copiar, modificar, redistribuir ou usar o código em produção ou para fins comerciais.
 
 ---
-
-**Desenvolvido por AllTech Websites** • Projeto acadêmico e de portfólio
