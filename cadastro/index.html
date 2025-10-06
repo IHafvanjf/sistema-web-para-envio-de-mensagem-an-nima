@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cadastro – Cartas Anônimas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        crossorigin="anonymous"/>
+  <link rel="stylesheet" href="cadastro.css"/>
+</head>
+<body>
+  <div class="register-page">
+    <div class="logo-space">
+      <img src="../img/logo.png" alt="Logo do Terceirão" class="logo-terceirao">
+    </div>
+    <div id="toast" class="toast">
+      <i class="fas fa-user-secret toast-icon"></i>
+      <div class="toast-text">
+        <strong class="toast-title"></strong>
+        <p class="toast-body"></p>
+      </div>
+    </div>
+    <div class="register-card">
+  <h2>Identifique-se para receber cartas anônimas</h2>
+  <form id="registerForm">
+    <div class="field">
+      <label for="nome"><i class="fas fa-user"></i> Nome</label>
+      <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required/>
+    </div>
+    <div class="field">
+      <label for="email"><i class="fas fa-envelope"></i> E-mail</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        placeholder="Digite seu e-mail"
+        required
+      />
+    </div>
+  <div class="field">
+    <label for="turma"><i class="fas fa-school"></i> Turma</label>
+      <input
+        type="text"
+        id="turma"
+        name="turma"
+        placeholder="Digite sua turma (ex: 302)"
+        required
+      />
+  </div>
+    <div class="field">
+      <label for="senha"><i class="fas fa-lock"></i> Crie uma senha</label>
+      <input
+        type="password"
+        id="senha"
+        name="senha"
+        placeholder="Senha segura"
+        required
+      />
+    </div>
+
+    <button type="submit" class="btn-submit">
+      <i class="fas fa-check-circle"></i> Confirmar
+    </button>
+
+      <p class="forgot-password">
+        <a href="../esqueci/index.html">Esqueci minha senha</a>
+      </p>
+  </form>
+</div>
+  </div>
+
+  <script src="cadastro.js"></script>
+</body>
+</html>

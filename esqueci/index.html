@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Recuperar Senha – Cartas Anônimas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        crossorigin="anonymous"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="recover-page">
+    <div class="recover-card">
+      <div id="msg" class="mensagem"></div>
+      <!-- passo 1 -->
+      <div class="step step-email active">
+        <h2><i class="fas fa-key"></i> Recuperar senha</h2>
+        <p>Digite seu e-mail de recuperação:</p>
+        <input type="email" id="recoveryEmail" placeholder="seu@email.com" />
+        <button id="emailNext" class="btn-submit">Enviar código</button>
+      </div>
+      <!-- passo 2 -->
+      <div class="step step-code">
+        <h2><i class="fas fa-envelope-open-text"></i> Código de verificação</h2>
+        <p>Insira o código enviado por e-mail:</p>
+        <input type="text" id="verificationCode" placeholder="Código de 6 dígitos" />
+        <button id="codeNext" class="btn-submit">Verificar código</button>
+      </div>
+      <!-- passo 3 -->
+      <div class="step step-new-password">
+        <h2><i class="fas fa-lock"></i> Nova senha</h2>
+        <p>Crie sua nova senha:</p>
+        <input type="password" id="newPassword" placeholder="Nova senha" />
+        <input type="password" id="confirmPassword" placeholder="Confirme a nova senha" />
+        <button id="passwordSubmit" class="btn-submit">Alterar senha</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
