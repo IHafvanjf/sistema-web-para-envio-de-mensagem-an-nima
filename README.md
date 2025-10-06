@@ -1,5 +1,7 @@
 # Plataforma de Mensagens Anônimas — Dia dos Namorados Escolar 
 
+**Última revisão:** 06-2025
+
 Aplicação web desenvolvida com **fins de estudo e portfólio**, simulando uma ação divertida e segura de **Dia dos Namorados em escolas e faculdades**.  
 Permite que alunos enviem e recebam mensagens anônimas ou identificadas, com temas personalizados, busca por turma e painel administrativo para coordenação ou grêmio.
 
