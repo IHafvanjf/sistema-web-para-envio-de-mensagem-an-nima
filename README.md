@@ -3,7 +3,7 @@
 Aplicação web desenvolvida com **fins de estudo e portfólio**, simulando uma ação divertida e segura de **Dia dos Namorados em escolas e faculdades**.  
 Permite que alunos enviem e recebam mensagens anônimas ou identificadas, com temas personalizados, busca por turma e painel administrativo para coordenação ou grêmio.
 
-> Projeto de demonstração — desenvolvido apenas para fins educacionais e exibição no portfólio AllTech Websites.
+> Projeto de demonstração — desenvolvido apenas para fins educacionais e exibição no portfólio.
 
 ---
 
@@ -78,12 +78,12 @@ O sistema está hospedado e disponível para visualização:
 
 <div align="center">
 
-<!-- ordem invertida: a última enviada aparece primeiro -->
-<img src="https://github.com/user-attachments/assets/17225ff4-ae44-48eb-a6a2-d41991f9e340" alt="Tela 1" width="19%">
-<img src="https://github.com/user-attachments/assets/e4e0f44c-e1fc-446f-9040-0b536c7746ea" alt="Tela 2" width="19%">
-<img src="https://github.com/user-attachments/assets/0eae8f63-7503-4c12-a61e-35c78c68f354" alt="Tela 3" width="19%">
-<img src="https://github.com/user-attachments/assets/c0364fab-4173-402a-9e59-355218eeac41" alt="Tela 4" width="19%">
-<img src="https://github.com/user-attachments/assets/d81a18b5-889b-45ee-bc6b-561f80d9b21b" alt="Tela 5" width="19%">
+<!-- ordem invertida, com ALTURA UNIFICADA -->
+<img src="https://github.com/user-attachments/assets/17225ff4-ae44-48eb-a6a2-d41991f9e340" alt="Tela 1" height="360">
+<img src="https://github.com/user-attachments/assets/e4e0f44c-e1fc-446f-9040-0b536c7746ea" alt="Tela 2" height="360">
+<img src="https://github.com/user-attachments/assets/0eae8f63-7503-4c12-a61e-35c78c68f354" alt="Tela 3" height="360">
+<img src="https://github.com/user-attachments/assets/c0364fab-4173-402a-9e59-355218eeac41" alt="Tela 4" height="360">
+<img src="https://github.com/user-attachments/assets/d81a18b5-889b-45ee-bc6b-561f80d9b21b" alt="Tela 5" height="360">
 
 </div>
 
@@ -93,7 +93,7 @@ O sistema está hospedado e disponível para visualização:
 - [ ] Sistema de notificações em tempo real  
 - [ ] Ranking de mensagens mais curtidas  
 - [ ] Análise de engajamento por turma  
-- [ ] Layout temático para outras datas (Amigo Oculto, Páscoa etc.)  
+- [ ] Layout temático para outras datas  
 
 ---
 
